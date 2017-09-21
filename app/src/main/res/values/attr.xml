@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--1.自定义属性-->
+    <declare-styleable name="CarBoardView">
+        <attr name="outRingColor" format="color"/>
+        <attr name="innerRingColor" format="color"/>
+        <attr name="speedColor" format="color"/>
+        <attr name="indicatorColor" format="color"/>
+        <attr name="outRingRadius" format="float"/>
+        <attr name="innerRingRadius" format="float"/>
+        <attr name="outSpeedSize" format="float"/>
+        <attr name="innerSpeedSize" format="float"/>
+        <attr name="speedUnitSize" format="float"/>
+    </declare-styleable>
+
+</resources>
